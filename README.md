@@ -2,7 +2,7 @@
 
 **<u>Coming Soon!</u>** 
 
-**NOTE:** Please submit a code-request to <eseraj3 at gatech dot edu> directly if you need to access this content before it is officially released.
+**NOTE:** Please submit a code-request to <u>eseraj3 at gatech dot edu</u> directly if you need to access this content before it is officially released.
 
 - <u>Documentation</u>: Tutorials and documentations.
 - <u>LfD-HRI Package</u>: FireCommander Python Code and GUI ready for data collection and user studies
