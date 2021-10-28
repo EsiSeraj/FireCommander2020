@@ -1,5 +1,5 @@
 # FireCommander - The MARL Package
 
-**<u>Coming Soon!</u>** 
+**NOTE:** For utility, please refer to the full documentation and tutorial provided in folder **Documentation**
 
-**NOTE:** Please submit a code-request to **<u>eseraj3 at gatech dot edu</u>** directly if you need to access this content before it is officially released.
+- <u>MARL Package</u>: FireCommander Python Code and environments ready for RL and MARL algorithms to be implemented on.
